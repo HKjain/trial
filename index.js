@@ -1,3 +1,3 @@
-const attack = () => { console.log('hello'); };
+const attack = () => { console.log('hello') }
 
-attack();
+attack()
